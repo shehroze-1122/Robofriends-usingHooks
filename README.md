@@ -1,8 +1,8 @@
-# [RoboFriends](https://shehroze-1122.github.io/RoboFriends-React-Redux/)
+# [RoboFriends](https://shehroze-1122.github.io/RoboFriends-usingHooks/)
 
 A simple and fully optimal app build with [Create React App](https://github.com/facebook/create-react-app).
-It uses Redux for state management and it is based on one smart class component.
-The updated version however which uses hooks can be seen [here](https://github.com/shehroze-1122/Robofriends-usingHooks)
+
+It uses the new React hooks and it is a function version of previous version which used class and redux for the smart component and can be seen [here](https://github.com/shehroze-1122/Robofriends-usingHooks)
 
 It has a cool UI consisting of robots fetched using [RoboHash](https://robohash.org/) API and dummy users and emails fetched from [JSON placeholder](https://jsonplaceholder.typicode.com/) Fake Free API.
 
