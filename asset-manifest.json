@@ -1,26 +1,24 @@
 {
   "files": {
     "main.css": "/Robofriends-usingHooks/static/css/main.4b86b376.chunk.css",
-    "main.js": "/Robofriends-usingHooks/static/js/main.19425e41.chunk.js",
-    "main.js.map": "/Robofriends-usingHooks/static/js/main.19425e41.chunk.js.map",
-    "runtime-main.js": "/Robofriends-usingHooks/static/js/runtime-main.0819d46b.js",
-    "runtime-main.js.map": "/Robofriends-usingHooks/static/js/runtime-main.0819d46b.js.map",
+    "main.js": "/Robofriends-usingHooks/static/js/main.01488665.chunk.js",
+    "main.js.map": "/Robofriends-usingHooks/static/js/main.01488665.chunk.js.map",
+    "runtime-main.js": "/Robofriends-usingHooks/static/js/runtime-main.8f971081.js",
+    "runtime-main.js.map": "/Robofriends-usingHooks/static/js/runtime-main.8f971081.js.map",
     "static/css/2.6d7c7915.chunk.css": "/Robofriends-usingHooks/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.c7ff95f0.chunk.js": "/Robofriends-usingHooks/static/js/2.c7ff95f0.chunk.js",
-    "static/js/2.c7ff95f0.chunk.js.map": "/Robofriends-usingHooks/static/js/2.c7ff95f0.chunk.js.map",
-    "static/js/3.601de04b.chunk.js": "/Robofriends-usingHooks/static/js/3.601de04b.chunk.js",
-    "static/js/3.601de04b.chunk.js.map": "/Robofriends-usingHooks/static/js/3.601de04b.chunk.js.map",
+    "static/js/2.9344b687.chunk.js": "/Robofriends-usingHooks/static/js/2.9344b687.chunk.js",
+    "static/js/2.9344b687.chunk.js.map": "/Robofriends-usingHooks/static/js/2.9344b687.chunk.js.map",
     "index.html": "/Robofriends-usingHooks/index.html",
     "static/css/2.6d7c7915.chunk.css.map": "/Robofriends-usingHooks/static/css/2.6d7c7915.chunk.css.map",
     "static/css/main.4b86b376.chunk.css.map": "/Robofriends-usingHooks/static/css/main.4b86b376.chunk.css.map",
-    "static/js/2.c7ff95f0.chunk.js.LICENSE.txt": "/Robofriends-usingHooks/static/js/2.c7ff95f0.chunk.js.LICENSE.txt",
+    "static/js/2.9344b687.chunk.js.LICENSE.txt": "/Robofriends-usingHooks/static/js/2.9344b687.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Robofriends-usingHooks/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.0819d46b.js",
+    "static/js/runtime-main.8f971081.js",
     "static/css/2.6d7c7915.chunk.css",
-    "static/js/2.c7ff95f0.chunk.js",
+    "static/js/2.9344b687.chunk.js",
     "static/css/main.4b86b376.chunk.css",
-    "static/js/main.19425e41.chunk.js"
+    "static/js/main.01488665.chunk.js"
   ]
 }
