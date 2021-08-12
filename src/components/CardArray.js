@@ -1,12 +1,18 @@
 import React from 'react';
 import Card from './Card.js';
+import LoadingSpinner from './LoadingSpinner.js';
 
-const CardArray = ({robots})=>{
+const CardArray = ({robots, isPending, ifFailed})=>{
 
-    if(robots.length===0){
+    if(ifFailed){
+        return (<p className="tc white mt-10">Couldn't connect to the server. Please check your internet connection.</p>)
+    }
+
+    else if(!isPending & robots.length===0){
         return (<p className="tc white mt-10">No result found</p>)
     }
-    return(
+
+    return isPending? (<LoadingSpinner/>):(
         <div>
             {
                 robots.map((user)=>{
@@ -15,6 +21,6 @@ const CardArray = ({robots})=>{
             }
         </div>
 
-    );
+        );
 };
 export default CardArray;
